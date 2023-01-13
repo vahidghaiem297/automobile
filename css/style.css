@@ -537,7 +537,7 @@ flex-direction: row-reverse;
 .main-menu li a::after{
   content: "";
   position: absolute;
-  top: -11px;
+  top: 0;
   left: 0;
   right: 0;
   width: 0;
